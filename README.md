@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Adelante's homepage!
 
-- 🌱 I’m currently learning Complex Analysis, Set Theory and TOEFL...
+- 🌱 I’m currently learning Complex Analysis, NLP and TOEFL...
 - 🤔 I’m looking for help with math and algorithm.
 - 💬 Ask me about Mathematical Logic, I am very intersted in combining Logic with NLP.
 - ⚡ Fun fact: You can find me every Friday afternoon at No.1 Statium in Peking University, next to the *Anonymous Lake*.
