@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Complex Analysis, NLP and TOEFL...
 - 🤔 I’m looking for help with math and algorithm.
-- 💬 Ask me about Mathematical Logic, I am very intersted in combining Logic with NLP.
+- 💬 Ask me about baseball! I am very interested in baseball as well as softball.
 - ⚡ Fun fact: You can find me every Friday afternoon at No.1 Statium in Peking University, next to the *Anonymous Lake*.
 
 Contacts:
