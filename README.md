@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **AI+Math LLM**
 
-- 🌱 I’m currently learning **NLP, Complex Analysis, Discrete Math**
+- 🌱 I’m currently learning **NLP, Complex Analysis, Discrete Math**.
 
-- 📝 I regularly write articles on [treehole.pku.edu.cn](https://treehole.pku.edu.cn)
+- 📝 I regularly write articles on [PKU's Treehole](https://treehole.pku.edu.cn), also [WeChat Official Account](https://mp.weixin.qq.com).
 
 - 💬 Ask me about **Python**
 
